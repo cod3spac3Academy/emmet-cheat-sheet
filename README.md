@@ -6,7 +6,7 @@ Create a calendar:
 
 ---    
 
-Create a div whit his class
+Create a div whith his class
 
 ~~~
 .class
