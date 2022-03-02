@@ -2,9 +2,12 @@
 Our most valuable emmet snippets
 
 Create a calendar:
+
+```
     table>tr>th*7^(tr>td*7)*5
 
----    
+```
+---
 
 Create a div whith his class
 
