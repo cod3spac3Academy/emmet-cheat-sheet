@@ -23,3 +23,17 @@ then
 
 ---
 
+Create a link with a text
+
+~~~
+a{click here}
+~~~
+
+then
+
+~~~
+<a href="">click here</a>
+~~~
+
+---
+
